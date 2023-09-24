@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc1dca3e.css",
+    "main.js": "/static/js/main.d7b46aa9.js",
+    "static/js/787.d07873dd.chunk.js": "/static/js/787.d07873dd.chunk.js",
+    "static/media/tree-bg3.jpg": "/static/media/tree-bg3.32d46c2fac0bb1fe97e1.jpg",
+    "index.html": "/index.html",
+    "main.bc1dca3e.css.map": "/static/css/main.bc1dca3e.css.map",
+    "main.d7b46aa9.js.map": "/static/js/main.d7b46aa9.js.map",
+    "787.d07873dd.chunk.js.map": "/static/js/787.d07873dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1dca3e.css",
+    "static/js/main.d7b46aa9.js"
+  ]
+}
